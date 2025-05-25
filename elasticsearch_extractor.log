@@ -1,0 +1,14 @@
+2025-03-12 13:35:31,712 - elasticsearch_extractor - INFO - Script started at 2025-03-12 13:35:31.712013
+2025-03-12 13:35:31,712 - elasticsearch_extractor - INFO - Connecting to Elasticsearch at 192.168.31.172:9200
+2025-03-12 13:38:07,278 - elasticsearch_extractor - INFO - Script started at 2025-03-12 13:38:07.278506
+2025-03-12 13:38:07,278 - elasticsearch_extractor - INFO - Connecting to Elasticsearch at 192.168.31.172:9200
+2025-03-12 13:38:07,288 - elastic_transport.transport - INFO - GET http://192.168.31.172:9200/ [status:200 duration:0.009s]
+2025-03-12 13:38:07,289 - elasticsearch_extractor - INFO - Connected to Elasticsearch cluster: docker-cluster
+2025-03-12 13:38:07,289 - elasticsearch_extractor - INFO - Querying Elasticsearch index: default-index-2025.03.11
+2025-03-12 13:38:07,305 - elastic_transport.transport - INFO - POST http://192.168.31.172:9200/default-index-2025.03.11/_search [status:200 duration:0.016s]
+2025-03-12 13:38:07,306 - elasticsearch_extractor - INFO - Retrieved 92 documents
+2025-03-12 13:38:07,330 - elasticsearch_extractor - INFO - Saving 92 records with 58 fields to extracted_data.csv
+2025-03-12 13:38:07,334 - elasticsearch_extractor - INFO - Data successfully saved to extracted_data.csv
+2025-03-12 13:38:07,334 - elasticsearch_extractor - INFO - Script completed at 2025-03-12 13:38:07.334587
+2025-03-12 13:38:07,334 - elasticsearch_extractor - INFO - Total execution time: 0:00:00.056081
+2025-03-12 13:38:07,334 - elasticsearch_extractor - INFO - Output saved to: /Users/abdulmuiz/Documents/LAB/elk-stack/Final/extracted_data.csv

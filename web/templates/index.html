@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}Home - Elasticsearch Extractor{% endblock %}
+
+{% block content %}
+<div class="text-center">
+  <h1 class="display-4">Welcome to the Elasticsearch Extractor</h1>
+  <p class="lead">Run your external extractor script and process the logs with time, inference, and embedding pipelines.</p>
+  <a class="btn btn-primary btn-lg" href="{{ url_for('extract') }}" role="button">Run Extractor</a>
+</div>
+{% endblock %}
