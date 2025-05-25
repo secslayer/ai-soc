@@ -4,7 +4,7 @@
 
 **Secure Guard** is a cutting-edge AI-powered system that transforms cybersecurity incident response by combining real-time data ingestion, machine learning-based prediction, time-series forecasting, and dynamic playbook generation. Built with scalability and automation in mind, this system provides Security Operations Centers (SOCs) with the tools necessary to detect, forecast, and respond to threats efficiently.
 
-> 🔗 Referenced Notebooks:
+> 🔗 My Notebooks:
 > - [Forecasting Incident Trends](https://www.kaggle.com/code/seclayer/notebook8959a9327e)
 > - [Incident Triage Prediction](https://www.kaggle.com/code/seclayer/tasos-incident-triage-prediction-microsoft/edit)
 > - [Model Training and Evaluation](https://www.kaggle.com/code/seclayer/notebook062aadfcf1)
