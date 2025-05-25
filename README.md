@@ -53,8 +53,8 @@ Log data is collected via:
 
 Key ingestion visuals:
 
-![Data Collection Algorithm](images/figure_30_1.png)
-![Data Ingestion Flow](images/figure_30_2.png)
+![Data Collection Algorithm](./images/figure_30_1.png)
+![Data Ingestion Flow](./images/figure_30_2.png)
 
 ---
 
@@ -67,7 +67,7 @@ Key ingestion visuals:
 - Use PCA for dimensionality reduction.
 
 Key steps diagrammed:
-![Preprocessing Algorithm](images/figure_30_1.png)
+![Preprocessing Algorithm](./images/figure_30_1.png)
 
 ---
 
@@ -83,7 +83,7 @@ The ML pipeline uses:
 - Labels: Grade, Category, MITRE Tactic
 - Notebook: [Notebook 062aadfcf1](https://www.kaggle.com/code/seclayer/notebook062aadfcf1)
 
-![Model Training](images/figure_30_1.png)
+![Model Training](./images/figure_30_1.png)
 
 ---
 
@@ -99,7 +99,7 @@ Forecasts 24-hour incident volume using:
 [Forecasting Notebook](https://www.kaggle.com/code/seclayer/notebook8959a9327e)
 
 Forecast Output:
-![Forecast Graph](images/figure_29_1.png)
+![Forecast Graph](./images/figure_29_1.png)
 
 ---
 
@@ -111,7 +111,7 @@ Secure Guard integrates **Deepseek** to:
 - Update playbooks dynamically.
 
 Output Example:
-![Playbook Output](images/figure_30_2.png)
+![Playbook Output](./images/figure_30_2.png)
 
 ---
 
@@ -128,7 +128,7 @@ Technologies:
 - Redis for task queuing
 - WebSockets for real-time UI
 
-![Dashboard Screenshot](images/figure_29_1.png)
+![Dashboard Screenshot](./images/figure_29_1.png)
 
 ---
 
